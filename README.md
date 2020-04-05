@@ -1,0 +1,1 @@
+# Image-Size-Dependent-Normalization-Technique-for-Contrast-Enhancement
